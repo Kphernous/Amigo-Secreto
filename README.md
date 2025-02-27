@@ -1,5 +1,4 @@
-<div align="center"> 
-  ![GitHub Logo](https://github.com/Kphernous/Amigo-Secreto/blob/main/assets/readmepic.jpg)
+<div align="center" src="readmepic.jpg" alt="Descripción de la imagen"> ![GitHub Logo](https://github.com/Kphernous/Amigo-Secreto/blob/main/assets/readmepic.jpg)
 
 <h1> Proyecto Amigo Secreto
 </h1>
