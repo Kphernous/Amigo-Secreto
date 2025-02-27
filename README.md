@@ -1,7 +1,4 @@
 ![GitHub Logo](https://github.com/Kphernous/Amigo-Secreto/blob/main/assets/readmepic.jpg)
-
-<div align="center" src="readmepic.jpg" alt="Descripción de la imagen"> 
-
 <h1> Proyecto Amigo Secreto
 </h1>
 
@@ -24,4 +21,3 @@
 <h5>mail: cristopherlml7@gmail.com<h5>
 
 <h5>Creado por Cristopher Chaves Garita.</h5>
-</div>
