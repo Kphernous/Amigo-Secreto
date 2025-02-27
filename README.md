@@ -16,8 +16,8 @@
 
 3. el resultado se generara automaticamente y para volver a jugar solo actualizar de nuevo la pagina.
 
-<h5>info: https://github.dev/Kphernous/;<h5>
+<h5>info: https://github.dev/Kphernous/<h5>
 
-<h5>mail: cristopherlml7@gmail.com;<h5>
+<h5>mail: cristopherlml7@gmail.com<h5>
 
 <h5>Creado por Cristopher Chaves Garita.</h5>
