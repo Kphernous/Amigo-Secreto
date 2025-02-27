@@ -1,4 +1,4 @@
-<div align="center">![GitHub Logo](https://github.com/Kphernous/Amigo-Secreto/blob/main/assets/readmepic.jpg)</div>
+<div align="center">![GitHub Logo](https://github.com/Kphernous/Amigo-Secreto/blob/main/assets/readmepic.jpg)
 
 <h1> Proyecto Amigo Secreto
 </h1>
@@ -22,3 +22,4 @@
 <h5>mail: cristopherlml7@gmail.com<h5>
 
 <h5>Creado por Cristopher Chaves Garita.</h5>
+</div>
