@@ -1,21 +1,23 @@
+![GitHub Logo](https://github.com/Kphernous/Amigo-Secreto/blob/main/assets/readmepic.jpg)
 <h1> Proyecto Amigo Secreto;
 </h1>
 
-Funcionalidades;
+<h3>Funcionalidades:</h3>
 
-1.Almacenar los nombres;
+1. Almacena, agrega, elimina y actualizar los nombres;
 
-2.Agregar amigos;
+2. Sortear un amigo secreto;
 
-3.Actualizar la lista de amigos;
+<h3>Como jugar:</h3>
 
-4.sortear los amigos;
+1. ingresa los nombre de tus amigos, puedes eliminar y agregar.
 
-Cómo pueden usarlo los usuarios;
+2. dale al boton de sortear amigo.
 
-info: https://github.dev/Kphernous/;
+3. el resultado se generara automaticamente y para volver a jugar solo actualizar de nuevo la pagina.
 
-mail: cristopherlml7@gmail.com;
+<h5>info: https://github.dev/Kphernous/;<h5>
 
+<h5>mail: cristopherlml7@gmail.com;<h5>
 
-Creado por Cristopher Chaves Garita.
+<h5>Creado por Cristopher Chaves Garita.</h5>
