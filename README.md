@@ -23,7 +23,9 @@
 
   <h5>Creado por Cristopher Chaves Garita.</h5>
 </div>
-
+<div align="center">
+    <h3>Capturas:</h3>
 ![GitHub Logo](https://github.com/Kphernous/Amigo-Secreto/blob/main/Screenshots/brave_screenshot%20(1).png)
 
-![GitHub Logo](https://github.com/Kphernous/Amigo-Secreto/tree/main/Screenshots/brave_screenshot.png)
+![GitHub Logo](https://github.com/Kphernous/Amigo-Secreto/blob/main/Screenshots/brave_screenshot.png)
+</div>
