@@ -2,8 +2,6 @@
 <div align="center">
   <h1> Proyecto Amigo Secreto
   </h1>
-(https://github.com/Kphernous/Amigo-Secreto/tree/main/Screenshots/brave_screenshot.png)
-(https://github.com/Kphernous/Amigo-Secreto/tree/main/Screenshots/brave_screenshot(1).png)
 
   <h3>Funcionalidades:</h3>
 
@@ -25,3 +23,6 @@
 
   <h5>Creado por Cristopher Chaves Garita.</h5>
 </div>
+(https://github.com/Kphernous/Amigo-Secreto/tree/main/Screenshots/brave_screenshot.png)
+
+(https://github.com/Kphernous/Amigo-Secreto/tree/main/Screenshots/brave_screenshot(1).png)
