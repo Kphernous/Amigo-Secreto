@@ -2,8 +2,8 @@
 <div align="center">
   <h1> Proyecto Amigo Secreto
   </h1>
-(https://github.com/Kphernous/Amigo-Secreto/tree/main/Screenshots/brave_screenshot.jpg)
-(https://github.com/Kphernous/Amigo-Secreto/tree/main/Screenshots/brave_screenshot(1).jpg)
+(https://github.com/Kphernous/Amigo-Secreto/tree/main/Screenshots/brave_screenshot.png)
+(https://github.com/Kphernous/Amigo-Secreto/tree/main/Screenshots/brave_screenshot(1).png)
 
   <h3>Funcionalidades:</h3>
 
