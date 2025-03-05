@@ -2,6 +2,8 @@
 <div align="center">
   <h1> Proyecto Amigo Secreto
   </h1>
+    <p>
+    </p>
 
   <h3>Funcionalidades:</h3>
 
@@ -11,7 +13,7 @@
 
   <h3>Como jugar:</h3>
 
-  <p>1. ingresa los nombre de tus amigos, puedes eliminar y agregar.</p>
+  <p>1. Agrega los nombres de tus amigos, puedes eliminar amigos con el boton de x rojo.</p>
 
   <p>2. dale al boton de sortear amigo.</p>
 
